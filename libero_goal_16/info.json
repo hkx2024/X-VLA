@@ -1,0 +1,10 @@
+{
+    "codebase_version": "v2.1",
+    "robot_type": "libero",
+    "total_episodes": 16,
+    "observation_key": [
+        "/observation/third_image",
+        "/observation/wrist_image"
+    ],
+    "language_instruction_key": "/language_instruction"
+}

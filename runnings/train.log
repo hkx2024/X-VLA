@@ -1,0 +1,140 @@
+16:42:48 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/libero_object_no_noops_lerobot_v21/meta/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+16:57:16 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/libero_object_no_noops_lerobot_v21/meta/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+16:58:47 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/libero_object_no_noops_lerobot_v21/meta/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+17:00:29 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+17:11:51 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/libero_object_no_noops_lerobot_v21/meta/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+17:11:56 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+17:12:46 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/libero_object_no_noops_lerobot_v21/meta/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+17:12:52 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+17:18:18 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/libero_object_no_noops_lerobot_v21/meta/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+17:18:23 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+17:21:46 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/libero_object_no_noops_lerobot_v21/meta/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+17:21:51 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+17:24:57 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/libero_object_no_noops_lerobot_v21/meta/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+17:26:23 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+22:40:32 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/X-VLA/libero_goal_16/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+22:41:14 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+22:57:38 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/X-VLA/libero_goal_16/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+22:58:46 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/X-VLA/libero_goal_16/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+22:58:51 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+23:03:20 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/X-VLA/libero_goal_16/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+23:03:28 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+23:03:44 | INFO | __main__ | [0/50000] loss=112.0745 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.80s/it) USED_CPU=2.52e+00 GB USED_GPU=9.88e+00 GB 
+23:03:55 | INFO | __main__ | [20/50000] loss=15.3084 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.58s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:04:07 | INFO | __main__ | [40/50000] loss=4.2219 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.59s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:04:19 | INFO | __main__ | [60/50000] loss=3.2698 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.59s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:04:31 | INFO | __main__ | [80/50000] loss=2.1244 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.59s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:04:43 | INFO | __main__ | [100/50000] loss=1.7586 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.59s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:04:54 | INFO | __main__ | [120/50000] loss=1.4462 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:05:06 | INFO | __main__ | [140/50000] loss=1.4015 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:05:18 | INFO | __main__ | [160/50000] loss=1.8552 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:05:30 | INFO | __main__ | [180/50000] loss=0.9461 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:05:42 | INFO | __main__ | [200/50000] loss=1.0688 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:05:55 | INFO | __main__ | [220/50000] loss=0.9175 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:06:07 | INFO | __main__ | [240/50000] loss=0.7878 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:06:19 | INFO | __main__ | [260/50000] loss=0.7821 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:06:31 | INFO | __main__ | [280/50000] loss=1.0247 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:06:43 | INFO | __main__ | [300/50000] loss=1.1953 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:06:55 | INFO | __main__ | [320/50000] loss=0.9459 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:07:07 | INFO | __main__ | [340/50000] loss=0.9738 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:07:19 | INFO | __main__ | [360/50000] loss=0.9293 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.56e+00 GB USED_GPU=9.88e+00 GB 
+23:10:08 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/X-VLA/libero_goal_16/info.json', batch_size=16, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+23:10:17 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+23:10:36 | INFO | __main__ | [0/50000] loss=112.0745 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.94s/it) USED_CPU=2.53e+00 GB USED_GPU=9.88e+00 GB 
+23:10:48 | INFO | __main__ | [20/50000] loss=15.3079 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:11:00 | INFO | __main__ | [40/50000] loss=4.2206 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.59s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:11:12 | INFO | __main__ | [60/50000] loss=3.2736 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.59s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:11:24 | INFO | __main__ | [80/50000] loss=2.1247 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.59s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:11:36 | INFO | __main__ | [100/50000] loss=1.7580 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:11:48 | INFO | __main__ | [120/50000] loss=1.4392 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:12:00 | INFO | __main__ | [140/50000] loss=1.3983 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:12:12 | INFO | __main__ | [160/50000] loss=1.8480 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:12:24 | INFO | __main__ | [180/50000] loss=0.9479 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.60s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:12:36 | INFO | __main__ | [200/50000] loss=1.0682 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:12:48 | INFO | __main__ | [220/50000] loss=0.9171 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:13:00 | INFO | __main__ | [240/50000] loss=0.7842 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:13:12 | INFO | __main__ | [260/50000] loss=0.7787 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:13:24 | INFO | __main__ | [280/50000] loss=1.0302 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:13:37 | INFO | __main__ | [300/50000] loss=1.1962 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:13:49 | INFO | __main__ | [320/50000] loss=0.9419 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:14:01 | INFO | __main__ | [340/50000] loss=0.9735 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:14:13 | INFO | __main__ | [360/50000] loss=0.9408 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:14:26 | INFO | __main__ | [380/50000] loss=0.6786 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:14:38 | INFO | __main__ | [400/50000] loss=1.0445 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:14:50 | INFO | __main__ | [420/50000] loss=1.0186 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:15:02 | INFO | __main__ | [440/50000] loss=0.8698 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:15:15 | INFO | __main__ | [460/50000] loss=1.1110 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:15:27 | INFO | __main__ | [480/50000] loss=1.0482 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:15:39 | INFO | __main__ | [500/50000] loss=0.6705 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:15:51 | INFO | __main__ | [520/50000] loss=0.5917 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:16:04 | INFO | __main__ | [540/50000] loss=0.7110 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:16:16 | INFO | __main__ | [560/50000] loss=0.7413 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:16:28 | INFO | __main__ | [580/50000] loss=0.4425 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:16:40 | INFO | __main__ | [600/50000] loss=0.6050 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:16:53 | INFO | __main__ | [620/50000] loss=0.5657 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:17:05 | INFO | __main__ | [640/50000] loss=0.7953 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:17:17 | INFO | __main__ | [660/50000] loss=0.6958 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:17:30 | INFO | __main__ | [680/50000] loss=0.7309 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.62s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:17:42 | INFO | __main__ | [700/50000] loss=0.5572 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:17:54 | INFO | __main__ | [720/50000] loss=0.3530 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:18:06 | INFO | __main__ | [740/50000] loss=0.6837 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:18:19 | INFO | __main__ | [760/50000] loss=0.6263 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:18:31 | INFO | __main__ | [780/50000] loss=0.5336 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:18:43 | INFO | __main__ | [800/50000] loss=0.7972 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:18:55 | INFO | __main__ | [820/50000] loss=0.7278 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:19:08 | INFO | __main__ | [840/50000] loss=0.5830 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:19:20 | INFO | __main__ | [860/50000] loss=0.5174 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:19:32 | INFO | __main__ | [880/50000] loss=0.7783 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:19:44 | INFO | __main__ | [900/50000] loss=0.5319 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:19:56 | INFO | __main__ | [920/50000] loss=0.4128 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:20:09 | INFO | __main__ | [940/50000] loss=1.1673 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:20:21 | INFO | __main__ | [960/50000] loss=0.8709 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:20:33 | INFO | __main__ | [980/50000] loss=0.6415 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:20:45 | INFO | __main__ | [1000/50000] loss=0.4063 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:20:58 | INFO | __main__ | [1020/50000] loss=0.5277 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:21:10 | INFO | __main__ | [1040/50000] loss=0.2438 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:21:22 | INFO | __main__ | [1060/50000] loss=0.2283 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:21:34 | INFO | __main__ | [1080/50000] loss=0.2528 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:21:46 | INFO | __main__ | [1100/50000] loss=1.3745 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:21:59 | INFO | __main__ | [1120/50000] loss=0.5766 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:22:11 | INFO | __main__ | [1140/50000] loss=0.6554 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:22:23 | INFO | __main__ | [1160/50000] loss=0.2886 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:22:36 | INFO | __main__ | [1180/50000] loss=0.2226 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:22:48 | INFO | __main__ | [1200/50000] loss=0.1396 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:23:00 | INFO | __main__ | [1220/50000] loss=0.1966 lr_core=1.00e-04 lr_vlm=1.00e-05 (0.61s/it) USED_CPU=2.57e+00 GB USED_GPU=9.88e+00 GB 
+23:25:50 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/X-VLA/libero_goal_16/info.json', batch_size=8, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+23:26:02 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+23:26:17 | INFO | __main__ | [0/50000] loss=112.5622 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.76s/it) USED_CPU=2.36e+00 GB USED_GPU=9.87e+00 GB 
+23:26:24 | INFO | __main__ | [20/50000] loss=16.9716 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.35s/it) USED_CPU=2.38e+00 GB USED_GPU=9.87e+00 GB 
+23:26:31 | INFO | __main__ | [40/50000] loss=4.3644 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.35s/it) USED_CPU=2.38e+00 GB USED_GPU=9.87e+00 GB 
+23:26:38 | INFO | __main__ | [60/50000] loss=2.5728 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.35s/it) USED_CPU=2.38e+00 GB USED_GPU=9.87e+00 GB 
+23:26:45 | INFO | __main__ | [80/50000] loss=1.9336 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.35s/it) USED_CPU=2.38e+00 GB USED_GPU=9.87e+00 GB 
+23:26:52 | INFO | __main__ | [100/50000] loss=1.8765 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.35s/it) USED_CPU=2.38e+00 GB USED_GPU=9.87e+00 GB 
+23:26:59 | INFO | __main__ | [120/50000] loss=1.6433 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.35s/it) USED_CPU=2.38e+00 GB USED_GPU=9.87e+00 GB 
+23:27:06 | INFO | __main__ | [140/50000] loss=3.1227 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.35s/it) USED_CPU=2.38e+00 GB USED_GPU=9.87e+00 GB 
+23:27:13 | INFO | __main__ | [160/50000] loss=1.5020 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.35s/it) USED_CPU=2.38e+00 GB USED_GPU=9.87e+00 GB 
+23:27:20 | INFO | __main__ | [180/50000] loss=1.8420 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.35s/it) USED_CPU=2.38e+00 GB USED_GPU=9.87e+00 GB 
+23:27:27 | INFO | __main__ | [200/50000] loss=0.8735 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.35s/it) USED_CPU=2.38e+00 GB USED_GPU=9.87e+00 GB 
+23:29:18 | INFO | __main__ | Args: Namespace(models='2toINF/X-VLA-Pt', output_dir='runnings', train_metas_path='/root/gpufree-data/X-VLA/libero_goal_16/info.json', batch_size=4, learning_rate=0.0001, learning_coef=0.1, weight_decay=0.0, betas=(0.9, 0.95), max_grad_norm=1.0, iters=50000, freeze_steps=1000, warmup_steps=2000, use_cosine_decay=False, min_lr_ratio=0.1, save_interval=50000, log_interval=20, seed=0)
+23:29:25 | INFO | __main__ | 🚀 Start training for 50000 iterations | world_size=1
+23:29:40 | INFO | __main__ | [0/50000] loss=113.6546 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.78s/it) USED_CPU=2.34e+00 GB USED_GPU=9.86e+00 GB 
+23:29:46 | INFO | __main__ | [20/50000] loss=16.8427 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.26s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:29:51 | INFO | __main__ | [40/50000] loss=4.0594 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:29:56 | INFO | __main__ | [60/50000] loss=2.8628 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:01 | INFO | __main__ | [80/50000] loss=1.8135 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:06 | INFO | __main__ | [100/50000] loss=2.1168 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:11 | INFO | __main__ | [120/50000] loss=1.5053 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:16 | INFO | __main__ | [140/50000] loss=1.6718 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:21 | INFO | __main__ | [160/50000] loss=1.1775 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:25 | INFO | __main__ | [180/50000] loss=1.0269 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:30 | INFO | __main__ | [200/50000] loss=1.4797 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:35 | INFO | __main__ | [220/50000] loss=1.2802 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:40 | INFO | __main__ | [240/50000] loss=1.8412 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:45 | INFO | __main__ | [260/50000] loss=2.5922 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:50 | INFO | __main__ | [280/50000] loss=3.1031 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:30:55 | INFO | __main__ | [300/50000] loss=2.1346 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:31:00 | INFO | __main__ | [320/50000] loss=1.2702 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:31:05 | INFO | __main__ | [340/50000] loss=1.9467 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:31:10 | INFO | __main__ | [360/50000] loss=1.2855 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:31:15 | INFO | __main__ | [380/50000] loss=0.9498 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
+23:31:20 | INFO | __main__ | [400/50000] loss=1.0520 lr_core=0.00e+00 lr_vlm=0.00e+00 (0.25s/it) USED_CPU=2.35e+00 GB USED_GPU=9.86e+00 GB 
