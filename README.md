@@ -315,7 +315,7 @@ h5ls -v your_file.h5/abs_action_6d
 ```
 
 
-## 数据及
+## 数据
 - libero_goal_16包含16条轨迹的样本，可以用于训练模型
 - 更多的数据可以[此处](https://huggingface.co/datasets/2toINF/Libero-XVLA-format)下载
 - 在libero_goal_16/episodes.jsonl添加新增加数据的路径
